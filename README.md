@@ -4,7 +4,7 @@
 <p align=center>I'm from Russia. I speak Russian, English and currently learning German</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,discord,html,css,docker,windows,arch,linux,obsidian,vscode"/>
+    <img src="https://skillicons.dev/icons?i=python,django,discord,html,css,docker,arch,linux,obsidian,vscode,neovim"/>
   </a>
 </p>
 
