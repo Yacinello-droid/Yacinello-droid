@@ -1,5 +1,5 @@
 <p align=center>Hi, I’m Yacinello</p>
-<p align=center>> *AKA* Quericoli, Ruby Webb</p>
+<p align=center>*AKA* Quericoli, Ruby Webb</p>
 <p align=center><span style="color:pink">I'm 14, an aspiring programmer</span></p>
 <p align=center>I'm from Russia. I speak Russian, English and currently learning German</p>
 <p align="center">
