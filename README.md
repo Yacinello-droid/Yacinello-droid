@@ -11,8 +11,5 @@
 <p align=center>Contact me:</p>
 <p align=center>- Discord: quericoli</p>
 <p align=center>My links:</p>
-<p align=center> [Steam](https://steamcommunity.com/profiles/76561199077298628/) </p>
-<!---
-Yacinello-droid/Yacinello-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align=center>- Steam: https://steamcommunity.com/profiles/76561199077298628/ </p>
+<p align=center>- Namemc: https://namemc.com/profile/yacinello</p>
